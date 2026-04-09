@@ -85,6 +85,6 @@ To deploy Launchpad to **Vercel** with optimized configurations:
 ---
 
 <div align="center">
-  <p>Created by <b>Antigravity</b> for the next generation of eCommerce.</p>
+  <p>Created by <b>Mushfiqur Rahman</b> for the next generation of eCommerce.</p>
   <p>MIT License © 2026</p>
 </div>
